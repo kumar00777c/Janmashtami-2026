@@ -126,7 +126,7 @@ h2 {
 
     color: #f8e7b5;
 
-    overflow: hidden;
+    overflow-y: auto;
 }
 
 .wish-overlay {
