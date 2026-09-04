@@ -7,7 +7,7 @@
 body {
     font-family: Georgia, "Times New Roman", serif;
     min-height: 100vh;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .welcome-page {
